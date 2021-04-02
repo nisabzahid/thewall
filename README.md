@@ -5,7 +5,7 @@ socialmedia build with django and react.
 to run the app 
 1. clone the repo ``` git clone https://github.com/nisabzahid/thewall.git ```
 2. install the dependency ``` pip install -r requirements.txt```
-3. go to location where manage.py file resides and on terminal ``` python manage.py runserver``
+3. go to location where manage.py file resides and on terminal ``` python manage.py runserver```
 4. to run tests ``` python manage.py test```
 
 The social media app runs on localhost:8000 .
