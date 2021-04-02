@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+asgiref = "==3.3.1"
+autopep8 = "==1.5.5"
+django-cors-headers = "==3.7.0"
+djangorestframework = "==3.12.2"
+pycodestyle = "==2.6.0"
+pytz = "==2021.1"
+sqlparse = "==0.4.1"
+toml = "==0.10.2"
+Django = "==3.1.7"
+Pillow = "==8.1.1"
+
+[requires]
+python_version = "3.7"
