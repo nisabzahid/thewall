@@ -1,2 +1,3 @@
-web: gunicorn dep:app
 
+
+web: python manage.py runserver
