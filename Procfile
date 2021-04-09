@@ -1,3 +1,3 @@
 
 
-web: gunicorn thewall.wsgi
+web: gunicorn main.wsgi
