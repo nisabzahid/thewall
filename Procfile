@@ -1,3 +1,3 @@
 
 
-web: python manage.py runserver -p $PORT
+web: gunicorn thewall.wsgi
