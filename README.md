@@ -28,5 +28,5 @@ Some future improvements will be done.
   And many more.
 
 some screen shots of the project
-1.  ![image]("screenshots/Screenshot from 2024-05-01 10-33-55.png"?raw=true "Optional Title")
+1.  ![image](https://github.com/nisabzahid/thewall/blob/60caf07a21d378df3713676b875c3940cfe94140/screenshots/Screenshot%20from%202024-05-01%2010-33-55.png)
 
